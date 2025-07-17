@@ -1,66 +1,33 @@
 # Hi there 👋 I'm MERCY12-champ
 
-## 🚀 Cloud Engineer | 💻 DevOps Enthusiast | ✍️ Technical Writer | 🤖 Automation Specialist
+### Automation Engineer | AI Tools Specialist | Cloud-Native Builder
 
-I'm a versatile Cloud Engineer with a solid foundation in software engineering and a knack for simplifying complex systems. My journey spans from web development to cloud solutions, always with a focus on efficiency and innovation.
+I design automation systems that save time, cut manual work, and scale with business needs. My work combines no-code tools, AI agents, and cloud infrastructure to power internal workflows, backend systems, and user-facing tools.
 
-## 🔭 I'm currently working on
-- Developing scalable cloud-native applications
-- Implementing CI/CD pipelines for faster, more reliable deployments
-- Creating comprehensive documentation for cloud architectures
-- Exploring advanced automation techniques using low-code platforms
+## What I Work On
+Building automations with Zapier, n8n, Make, and Airtable
 
-## 🌱 I'm currently learning
-- Advanced AWS and GCP services for big data and analytics
-- Serverless architecture patterns
-- AI and machine learning integration in cloud environments
-- Enhancing my technical writing skills for cloud computing topics
+Deploying AI agents using LangChain, MCP, and custom workflows
 
-## 💼 Professional Experience
-- **Cloud Computing Expert Writer** at Cloudwards.net
-  - Crafting in-depth articles on AWS, Azure, and GCP
-  - Simplifying complex cloud concepts for a broad audience
-- **Automation Assistant** at Kibo School
-  - Streamlining operations using Airtable, Zapier, and Make
-  - Reducing process times by up to 70% through smart automation
-- **Cloud Developer Intern** at ALX+UDACITY
-  - Building near real-time data pipelines
-  - Managing IAM, EC2, and VPC resources in AWS
+Using AI IDEs like Windsurf, Bolt.new, Cursor, and Lovable
 
-## 🛠 Skills
-- **Cloud Platforms:** AWS (EC2, S3, RDS, Lambda), GCP (Compute Engine, Cloud Storage, BigQuery)
-- **Containerization & Orchestration:** Docker, Kubernetes
-- **IaC & Configuration Management:** Terraform, Ansible
-- **CI/CD:** Jenkins, GitLab CI
-- **Monitoring & Logging:** Prometheus, ELK Stack
-- **Scripting & Programming:** Python, JavaScript, Bash
-- **Web Development:** React, HTML5, CSS3
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Version Control:** Git, GitHub
+Integrating LLMs like ChatGPT, Claude, Gemini, and Grok
 
-## 📚 Certifications & Education
-- GCP Associate Cloud Engineer
-- Google IT Professional Certification
-- Associates Degree in Computer Science, University of The People
-- Various courses: Docker Essentials, Business Intelligence with Excel
+Writing clean code and logic for APIs, bots, and internal tools
 
-## 👯 I'm looking to collaborate on
-- Cloud-native application development projects
-- Implementing serverless architectures
-- Creating educational content for aspiring cloud professionals
-- Open-source tools for cloud management and automation
+Automating backend ops and data flows on AWS/GCP
 
-## 💬 Ask me about
-- Strategies for efficient cloud resource management
-- Best practices in DevOps and CI/CD
-- How to leverage no-code/low-code tools for business process automation
-- Tips for clear and effective technical writing
-
-## 📫 How to reach me
+## Tools & Tech
+Automation: Zapier, Make, n8n, Airtable, Notion, HubSpot
+AI Stack: LangChain, Model Context Protocol, LLMs (GPT, Claude, Gemini, Grok)
+Cloud: AWS, GCP, Terraform
+Dev Tools: Windsurf, Cursor, Bolt.new, GitHub Actions
+Code: Python, JavaScript, Bash
+## How to reach me
 - https://www.linkedin.com/in/mercy-wawira-44689a20b/
 
 
-## 🌍 Languages
+## Languages
 - English (Excellent)
 - Swahili (Native)
 - French (Basic, actively improving)
