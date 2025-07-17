@@ -5,24 +5,25 @@
 I design automation systems that save time, cut manual work, and scale with business needs. My work combines no-code tools, AI agents, and cloud infrastructure to power internal workflows, backend systems, and user-facing tools.
 
 ## What I Work On
-Building automations with Zapier, n8n, Make, and Airtable
+- Building automations with Zapier, n8n, Make, and Airtable
 
-Deploying AI agents using LangChain, MCP, and custom workflows
+- Deploying AI agents using LangChain, MCP, and custom workflows
 
-Using AI IDEs like Windsurf, Bolt.new, Cursor, and Lovable
+- Using AI IDEs like Windsurf, Bolt.new, Cursor, and Lovable
 
-Integrating LLMs like ChatGPT, Claude, Gemini, and Grok
+- Integrating LLMs like ChatGPT, Claude, Gemini, and Grok
 
-Writing clean code and logic for APIs, bots, and internal tools
+- Writing clean code and logic for APIs, bots, and internal tools
 
-Automating backend ops and data flows on AWS/GCP
+- Automating backend ops and data flows on AWS/GCP
 
 ## Tools & Tech
-Automation: Zapier, Make, n8n, Airtable, Notion, HubSpot
-AI Stack: LangChain, Model Context Protocol, LLMs (GPT, Claude, Gemini, Grok)
-Cloud: AWS, GCP, Terraform
-Dev Tools: Windsurf, Cursor, Bolt.new, GitHub Actions
-Code: Python, JavaScript, Bash
+- Automation: Zapier, Make, n8n, Airtable, Notion, HubSpot
+- AI Stack: LangChain, Model Context Protocol, LLMs (GPT, Claude, Gemini, Grok)
+- Cloud: AWS, GCP, Terraform
+- Dev Tools: Windsurf, Cursor, Bolt.new, GitHub Actions
+- Code: Python, JavaScript, Bash
+  
 ## How to reach me
 - https://www.linkedin.com/in/mercy-wawira-44689a20b/
 
